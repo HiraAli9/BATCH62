@@ -23,7 +23,7 @@ for num in number_list:
     else:
         print(f"The number {num} is odd.")
 ### 4. Calculate the Square of Each Number ###
-    We will calculate the square of each number in the list using the exponentiation operator
+ We will calculate the square of each number in the list using the exponentiation operator
 (**), and display the result.
 ### Code: ###
 for num in number_list: 
@@ -49,13 +49,13 @@ else:
   We will run the program with different inputs to ensure it works correctly for all cases.
 ### Example test input: ###
 #Name: Alex
-#Numbers: 4, 5, 6
-#Output:
-#The number 4 is even. The number 5 is odd. The number 6 is even.
-#The number 4 and its square: (4, 16)
-#The number 5 and its square: (5, 25)
-#The number 6 and its square: (6, 36)
-#Sum = 15, not a prime number.
+\n#Numbers: 4, 5, 6
+\n#Output:
+\n#The number 4 is even. The number 5 is odd. The number 6 is even.
+\n#The number 4 and its square: (4, 16)
+\n#The number 5 and its square: (5, 25)
+\n#The number 6 and its square: (6, 36)
+\n#Sum = 15, not a prime number.
 
 
 
