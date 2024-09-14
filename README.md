@@ -49,13 +49,13 @@ else:
   We will run the program with different inputs to ensure it works correctly for all cases.
 ### Example test input: ###
 #Name: Alex
-\n#Numbers: 4, 5, 6
-\n#Output:
-\n#The number 4 is even. The number 5 is odd. The number 6 is even.
-\n#The number 4 and its square: (4, 16)
-\n#The number 5 and its square: (5, 25)
-\n#The number 6 and its square: (6, 36)
-\n#Sum = 15, not a prime number.
+\n #Numbers: 4, 5, 6
+\n #Output:
+\n #The number 4 is even. The number 5 is odd. The number 6 is even.
+\n #The number 4 and its square: (4, 16)
+\n #The number 5 and its square: (5, 25)
+\n #The number 6 and its square: (6, 36)
+\n #Sum = 15, not a prime number.
 
 
 
