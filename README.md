@@ -50,7 +50,7 @@ else:
 ### Example test input: ###
 #Name: Alex  <br>#Numbers: 4, 5, 6  <br>#Output:  <br>#The number 4 is even.  The number 5 is odd. The number 6 is even.  <br>#The number 4 and its square: (4, 16)  <br>#The number 5 and its square: (5, 25)  <br>#The number 6 and its square: (6, 36)  <br>#Sum = 15, not a prime number.
 ### Pic Example: ###
-![Sample](https://www.instagram.com/p/CsvUCsEtPbj/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==)
+![Example](https://images.app.goo.gl/RnXLZReegReiNTZq5)
 
 
 
