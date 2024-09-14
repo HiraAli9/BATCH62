@@ -2,8 +2,8 @@
    # Number Exploration Tool #
 ## Steps: ##
 ### 1. Set Up the Input Section ###
-    We will create an empty list called number_list[], and ask the user to input their 3 favorite numbers, 
-    converting each input to an integer.
+   We will create an empty list called number_list[], and ask the user to input their 3 favorite numbers, 
+converting each input to an integer.
 ### Code: ###
 number_list = []
 for i in range(1, 4):
@@ -23,9 +23,11 @@ for num in number_list:
     else:
         print(f"The number {num} is odd.")
 ### 4. Calculate the Square of Each Number ###
-    We will calculate the square of each number in the list using the exponentiation operator (**), and display the result.
+    We will calculate the square of each number in the list using the exponentiation operator
+(**), and display the result.
 ### Code: ###
-for num in number_list: print(f"The number {num} and its square: ({num}, {num ** 2})")
+for num in number_list: 
+   print(f"The number {num} and its square: ({num}, {num ** 2})")
 ### 5. Calculate the Sum of the Numbers ###
    We will calculate the sum of the three numbers using Python’s sum() function and display the result.
 ### Code: ###
