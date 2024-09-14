@@ -48,9 +48,7 @@ else:
 ### 7. Test the Program ###
   We will run the program with different inputs to ensure it works correctly for all cases.
 ### Example test input: ###
-![Example](![image](https://github.com/user-attachments/assets/73675315-5a64-4252-963b-66cd77407bd7)
-)
-#Name: Alex  #Numbers: 4, 5, 6  #Output:  #The number 4 is even.  The number 5 is odd. The number 6 is even.  #The number 4 and its square: (4, 16)  #The number 5 and its square: (5, 25)  #The number 6 and its square: (6, 36)  #Sum = 15, not a prime number.
+#Name: Alex  <br#Numbers: 4, 5, 6  <br>#Output:  <br>#The number 4 is even.  The number 5 is odd. The number 6 is even.  <br>#The number 4 and its square: (4, 16)  <br>#The number 5 and its square: (5, 25)  <br>#The number 6 and its square: (6, 36)  <br>#Sum = 15, not a prime number.
 
 
 
